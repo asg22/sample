@@ -1,2 +1,11 @@
 to check branch-git branch
 all branches-git branch --all
+
+to check changes-git status
+
+to add all files-git add .
+to add specific files-git add pathoffile
+
+to commit changes-(local git commit)-git commit -m "message"
+
+to push the changes-git push branchname
